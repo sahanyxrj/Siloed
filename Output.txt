@@ -1,0 +1,33 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/0C1FBABB-1839-4310-AE81-5ADCCE02B88A/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52040:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/0C1FBABB-1839-4310-AE81-5ADCCE02B88A/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Sahany/IdeaProjects/Siloed/out/production/Siloed Main
+The water usage of the town is: 259264.328125
+
+The volume of the first tower is: 27355.679688
+
+The volume of the second tower is: 4832.460449
+
+The volume of the third tower is: 6633.250488
+
+The volume of the fourth tower is: 13464.320313
+
+The volume of the fifth tower is: 2461.760010
+
+The volume of the sixth tower is: 22009.044922
+
+The volume of the seventh tower is: 26215.859375
+
+The volume of the eighth tower is: 11398.200195
+
+The volume of the ninth tower is: 21593.781250
+
+The volume of the tenth tower is: 8038.400391
+
+The volume of the eleventh tower is: 7884.540527
+
+The volume of the twelfth tower is: 31144.876953
+
+The total volume of these 12 Towers is: 183032.187500
+
+The daily water saving per person is: 0.072332
+
+
+Process finished with exit code 0
